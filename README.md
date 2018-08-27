@@ -1,7 +1,7 @@
 # websocket demo
 
 ### 效果图
-
+![image](https://github.com/feiaaa/demos/blob/master/websocketDemo.gif) 
 
 ### 安装方法
 请先确保装了node 和npm
